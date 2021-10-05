@@ -1,0 +1,9 @@
+* Rust CLI Template
+
+
+[[../../actions/workflows/build.yml/badge.svg]]
+
+
+A simple rust cli project template.
+
+The project is a primtive `ls` implementation which demonstrates the uses of options and arguments.
